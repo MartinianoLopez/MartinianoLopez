@@ -1,16 +1,12 @@
-## Hi there 👋
+# About
+Self-taught programmer, but I also hold a two-year college degree.  
+I have experience working with others and learning by doing.
 
-<!--
-**MartinianoLopez/MartinianoLopez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Currently Learning
+- Electronics (Arduino and related projects)  
+- Computer hardware & microelectronics  
+- Linux (Fedora)  
+- Space elevator physics  
+- Archaic English  
+- Strategy game programming  
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
