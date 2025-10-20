@@ -1,11 +1,12 @@
 # About
-Self-taught programmer, but I also hold a two year college degree.  
+I'm a half self-taught programmer. I like learning on my own, but I also have a degree in Systems Analysis. Right now I'm building some cool projects and looking for job opportunities.
 
 # Currently Learning
-- Electronics (Arduino and related projects)  
-- Computer hardware & microelectronics  
-- Linux (Fedora)  
-- Space elevator astro-physics  
+- React.js
+- Electronics Arduino
+- Computer hardware & architecture  
+- Linux (Omarchy)    
 - Archaic English  
-- Strategy game development  
+- Strategy game development
+
 
